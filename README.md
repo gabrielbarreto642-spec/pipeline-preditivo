@@ -25,3 +25,7 @@ O objetivo deste sistema é prever quebras mecânicas em equipamentos industriai
 2. Certifique-se de ter o Python instalado e instale as dependências:
    ```bash
    pip install -r requirements.txt
+
+## 🎥 Apresentação do Projeto
+Assista ao vídeo da apresentação gravada no Google Drive:  
+[Clique aqui para assistir ao vídeo](https://drive.google.com/file/d/1KMXRlurrZck-4kT5-XSc1P2kYE0LRyHK/view?usp=sharing)
